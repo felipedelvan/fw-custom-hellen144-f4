@@ -5022,7 +5022,7 @@ end</constant>
 </constant>
         <constant name="yesUnderstandLocking">"no"</constant>
     </page>
-    <versionInfo firmwareInfo="20250312" nPages="1" signature="rusEFI main.2025.03.21.hellen-f4-community.1548942716" version="5.0"/>
+    <versionInfo firmwareInfo="20250312" nPages="1" signature="rusEFI main.2025.03.21.hellen-f4-community.836694777" version="5.0"/>
     <bibliography author="rusEFI 20250312" writeDate="date"/>
     <settings/>
     <userComments/>
