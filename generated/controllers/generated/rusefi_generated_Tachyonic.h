@@ -1787,10 +1787,10 @@
 #define ts_show_hardware_simulator true
 #define ts_show_hbridge_function true
 #define ts_show_hd true
-#define ts_show_hip9011 false
+#define ts_show_hip9011 true
 #define ts_show_iat true
 #define ts_show_idle_hardware true
-#define ts_show_ign_key_analog_input false
+#define ts_show_ign_key_analog_input true
 #define ts_show_ign_key_switch false
 #define ts_show_ignitionOutputs true
 #define ts_show_ignitionPinMode true
@@ -1849,7 +1849,7 @@
 #define ts_show_strokes true
 #define ts_show_sync_cam true
 #define ts_show_tachometer true
-#define ts_show_tcu false
+#define ts_show_tcu true
 #define ts_show_throttle_switch true
 #define ts_show_tle8888 false
 #define ts_show_top_level_can_menu true
