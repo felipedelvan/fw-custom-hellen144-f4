@@ -4,3 +4,5 @@
 #define ts_show_cj125 true
 #define ts_show_tcu true
 #define ts_show_onboard_accelerometer true
+#define EFI_ONBOARD_MEMS_LIS2DH12 true
+#define EFI_ONBOARD_MEMS true
