@@ -3,3 +3,4 @@
 #define ts_show_hip9011 true
 #define ts_show_cj125 true
 #define ts_show_tcu true
+#define ts_show_onboard_accelerometer true
